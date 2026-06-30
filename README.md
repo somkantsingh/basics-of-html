@@ -1,2 +1,2 @@
-# basics-of-html
+# basics-of-web dev
 html ; css ; js
